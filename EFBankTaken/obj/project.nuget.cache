@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zrO/8GphQv+6F9Fbc6K4Ehw51BaMrYXh1h4EL8tatEJ6+P2XnXAP3O52hC3N59FNCrX8167XJMky6KZv2xORXw==",
+  "dgSpecHash": "tFLQt5G2R4UPnI99evlZ01SBQifUsudPBhiM9+/o+TecteNnUZqapZ8OZ3hK+KARvgcQ9lqUnISs8RgCE1rBhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\EFBankTaken.csproj",
+  "projectFilePath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

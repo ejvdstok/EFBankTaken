@@ -779,9 +779,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\EFBankTaken.csproj",
-      "projectName": "EFBankTaken",
-      "projectPath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\EFBankTaken.csproj",
+      "projectUniqueName": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\UI.csproj",
+      "projectName": "UI",
+      "projectPath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\UI.csproj",
       "packagesPath": "C:\\Users\\ejvds\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\EFBankTaken\\obj\\",
       "projectStyle": "PackageReference",
