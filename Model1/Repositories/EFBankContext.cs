@@ -37,8 +37,8 @@ namespace Model1.Repositories
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //---Klant---//
-            modelBuilder.Entity<Klant>().ToTable("Rekeningen");
-            modelBuilder.Entity<Klant>().HasKey(c => c.Rekeningen);
+            modelBuilder.Entity<Klant>().ToTable("Klanten");
+            modelBuilder.Entity<Klant>().HasKey(c => c.KlantId);
 
            //---Rekening---//
             modelBuilder.Entity<Rekening>().ToTable("Rekeningen");
