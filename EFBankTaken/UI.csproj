@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model1\Model1.csproj" />
+  </ItemGroup>
+
 </Project>

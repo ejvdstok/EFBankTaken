@@ -10,4 +10,3 @@ C:\Users\ejvds\source\repos\EFBankTaken\Model1\bin\Debug\netcoreapp3.1\Model1.pd
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.dll
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.pdb
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.genruntimeconfig.cache
-C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.csproj.CoreCompileInputs.cache
