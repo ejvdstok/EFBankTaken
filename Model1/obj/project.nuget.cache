@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PliCwOx5ioJ6mobGknx6ceeNPcr0H1NnKQAfiuZQH20PIjdol6o3lnpsjwnHgFr0b2CLF+TZIC6SNrrOXghI+w==",
+  "dgSpecHash": "k3NjWFU4GP0aTyYy+ktCNACDCl48j2iK4dEl4CNCTE3la+xaWjapExJwmD07ew6jyUd20x7QYImIPgSeFSlzHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ejvds\\source\\repos\\EFBankTaken\\Model1\\Model1.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.9\\microsoft.entityframeworkcore.3.1.9.nupkg.sha512",
-    "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.9\\microsoft.entityframeworkcore.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.9\\microsoft.entityframeworkcore.analyzers.3.1.9.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.9\\microsoft.entityframeworkcore.design.3.1.9.nupkg.sha512",
     "C:\\Users\\ejvds\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.9\\microsoft.entityframeworkcore.relational.3.1.9.nupkg.sha512",

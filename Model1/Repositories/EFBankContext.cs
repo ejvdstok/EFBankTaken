@@ -11,7 +11,7 @@ using System.Configuration;
 
 namespace Model1.Repositories
 {
-    class EFBankContext : DbContext
+    public class EFBankContext : DbContext
     {
         public static IConfigurationRoot configuration;
         bool testMode = false;

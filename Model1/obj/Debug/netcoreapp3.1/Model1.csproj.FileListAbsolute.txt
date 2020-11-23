@@ -1,6 +1,5 @@
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\bin\Debug\netcoreapp3.1\Model1.deps.json
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\bin\Debug\netcoreapp3.1\Model1.dll
-C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.csprojAssemblyReference.cache
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.AssemblyInfoInputs.cache
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.AssemblyInfo.cs
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\bin\Debug\netcoreapp3.1\appsettings.json
@@ -10,3 +9,4 @@ C:\Users\ejvds\source\repos\EFBankTaken\Model1\bin\Debug\netcoreapp3.1\Model1.pd
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.dll
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.pdb
 C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.genruntimeconfig.cache
+C:\Users\ejvds\source\repos\EFBankTaken\Model1\obj\Debug\netcoreapp3.1\Model1.csproj.CoreCompileInputs.cache
